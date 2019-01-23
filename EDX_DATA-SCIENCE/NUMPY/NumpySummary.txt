@@ -1,6 +1,0 @@
-Numpy general ops done.
-Include: 1)Basics
-	2)Maths
-	3)Sorting
-	4)Broadcasting
-	5)Conditional sorting
